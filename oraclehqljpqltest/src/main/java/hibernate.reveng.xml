@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="AREACITY"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="BILL"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="CATEGORIES"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="CUSTOMERS"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="DAOUSER"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="DEPARTMENTS"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="EMPLOYEES"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="JOBS"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="MANUFACTURERS"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="PRODUCTS"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="PRODUCTSBOUGHT"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="SHOP"/>
+  <table-filter match-schema="ELECTRONICSSTORE" match-name="SUBCATEGORIES"/>
+</hibernate-reverse-engineering>
